@@ -1,0 +1,44 @@
+.navbar-nav li{
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+}
+
+.nav-item {
+  display: inline-block;
+}
+
+li.nav-item.nav-link {
+  color: white;
+}
+body {
+  background-color: #017574;
+  color: white;
+}
+
+footer {
+  color: white;
+  background-color: #8E8579;
+  height: 50px;
+
+}
+
+.footer_icons {
+  opacity: 100%;
+  position:relative;
+  top: -3em;
+  right: -10em;
+}
+
+#bottom_menu {
+  right: 10em;
+
+}
+
+#background_img {
+  width: 100%;
+
+}
+
+
+
